@@ -2,6 +2,8 @@ import React from 'react'
 import Products from './Products'
 import './home.css'
 
+
+
 export default function Home() {
     return (
         <div className='hero'>
@@ -24,12 +26,12 @@ export default function Home() {
                             </div>
                         </div>
                         <div className="col">
-                            
+                           
                         </div>
                     </div>
                 </div>
                 <div className="container">
-                    
+
                 </div>
             </div>
       
