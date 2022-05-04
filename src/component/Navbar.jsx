@@ -3,7 +3,7 @@ import React from 'react'
 export default function Navbar() {
     return (
         <div>
-            <nav className="navbar navbar-expand-lg navbar-light bg-white py-3
+            <nav className="navbar navbar-expand-lg navbar-dark bg-black py-3
             shadow-sm">
                 <div className="container">
                     <a className="navbar-brand fw-bold fs-4" href="#">
@@ -30,11 +30,11 @@ export default function Navbar() {
                           
                         </ul>
                         <div className="buttons">
-                            <a href='' className='btn btn-outline-dark '>
+                            <a href='' className='btn btn-outline-light '>
                                 <i className="fa fa-sign-in me-1"></i>Login</a>
-                                <a href='' className='btn btn-outline-dark ms-2'>
+                                <a href='' className='btn btn-outline-light ms-2'>
                                 <i className="fa fa-user-plus me-1"></i>Register</a>
-                                <a href='' className='btn btn-outline-dark ms-2'>
+                                <a href='' className='btn btn-outline-primary ms-2'>
                                 <i className="fa fa-shopping-cart me-1"></i>Cart (0)</a>
                                 
                         </div>
