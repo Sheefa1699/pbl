@@ -3,9 +3,9 @@
     width: 100%;
     height: 600px;
 }
-.titlefoc1{
-    color: white;
-    top: 60px;
-    padding: 40px;
-    transform: rotate(20deg);
+.mainhead1{
+    color: rgb(240, 240, 240);
+    padding: 150px;
+    transform: rotate(90deg);
+    
 }
